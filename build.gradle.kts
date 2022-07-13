@@ -22,7 +22,7 @@ dependencies {
     // import kotlinx serialization
     compileOnly("org.jetbrains.kotlinx:kotlinx-serialization-json:1.3.3")
     compileOnly("com.github.EmortalMC:NBStom:18bc9744a7")
-    compileOnly("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.1")
+    compileOnly("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4")
 }
 
 configurations {
