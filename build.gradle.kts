@@ -20,7 +20,7 @@ dependencies {
     compileOnly("com.github.Minestom:Minestom:4a976a3333")
 
     // import kotlinx serialization
-    compileOnly("org.jetbrains.kotlinx:kotlinx-serialization-json:1.3.3")
+    compileOnly("org.jetbrains.kotlinx:kotlinx-serialization-json:1.4.0")
     compileOnly("com.github.EmortalMC:NBStom:18bc9744a7")
     compileOnly("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.1")
 }
